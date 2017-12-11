@@ -1,4 +1,4 @@
-# Atyimo - Record Linkage Application for Heterogeneous Platforms
+# AtyImo - Probabilistic Data Linkage Tool
 
 ## FEDERAL UNIVERSITY OF BAHIA (UFBA)
 ## ATYIMOLAB (www.atyimolab.ufba.br)
