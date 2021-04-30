@@ -5,7 +5,3 @@
 ## University College London
 ## Denaxas Lab (www.denaxaslab.org)
 ## Robespierre Pita and Clicia Pinto and Marcos Barreto and Spiros Denaxas
-
-
-- [ ] to do 1
-- [ ] to do 2
